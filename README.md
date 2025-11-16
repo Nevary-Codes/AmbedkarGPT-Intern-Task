@@ -144,14 +144,3 @@ python main.py --rebuild
 ## 📨 Submission
 
 This repo fulfills the **Kalpit Pvt Ltd – AI Intern Hiring** Phase 1 requirements.
-
-## 🧩 Need Extra Help?
-
-I can generate:
-
-- A FastAPI UI
-- A Dockerfile
-- A cleaner main.py
-- CI/CD workflows
-
-Just ask!
